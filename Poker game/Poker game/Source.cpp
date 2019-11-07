@@ -1,3 +1,6 @@
+//Basic Keno Logic
+//Still needs to verify user inputs to not have the same number punches in twice.
+
 #include <iostream>
 #include <random>
 using namespace std;
